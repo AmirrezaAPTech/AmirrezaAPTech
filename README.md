@@ -2,7 +2,7 @@
 
 ![Coffee Animation](coffee-animation.gif)
 
-Welcome to my GitHub profile! I'm Amirreza Abdeparvardegar, a passionate 17-year-old jounior front-end developer who loves to create amazing web experiences. 👨‍💻
+Welcome to my GitHub profile! I'm Amirreza Abdeparvardegar, a passionate 17-year-old junior front-end developer who loves to create amazing web experiences. 👨‍💻
 
 ## About Me
 
@@ -26,6 +26,6 @@ I'm actively working on various projects to enhance my skills and build exciting
 
 I'm always excited to connect with fellow developers, collaborate on projects, or simply have a chat about web development. You can reach me through email:
 
-- Email: [amirrezaaptech@gmail.com](mailto:amirrezaaptech@gmail.com)
+- Email: [AmirrezaAPTech@gmail.com](mailto:amirrezaaptech@gmail.com)
 
 Let's build amazing things together and make the web a better place! ☕️🚀
