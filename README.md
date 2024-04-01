@@ -16,8 +16,9 @@ Here are some of the skills I've acquired so far:
 
 - HTML
 - CSS
-- JavaScript
 - Tailwind
+- Git
+- JavaScript
 - React
 
 ## Projects
