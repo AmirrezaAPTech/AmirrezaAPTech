@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Amirreza Abdeparvardegar, a passionate 17-year
 
 - 🌱 Currently, I'm honing my skills in React.
 - 🔭 I'm constantly exploring new front-end technologies and learning the latest web development trends.
-- 🚀 My goal is to become a proficient full-stack developer and contribute to the ever-evolving web ecosystem.
+- 🚀 My goal is to become a proficient front-end developer and contribute to the ever-evolving web ecosystem.
 
 ## Skills
 
