@@ -1,8 +1,5 @@
-# Hello, World! ☕️
-
-![Coffee Animation](coffee-animation.gif)
-
-Welcome to my GitHub profile! I'm Amirreza Abdeparvardegar, a passionate 17-year-old junior front-end developer who loves to create amazing web experiences. 👨‍💻
+# ☕️ Hello World! 
+👨‍💻 Welcome to my GitHub profile! I'm Amirreza Abdeparvardegar, a passionate 17-year-old junior front-end developer who loves to create amazing web experiences. 
 
 # 💫 About Me:
 🌱 Currently, I'm honing my skills in React.<br>🔭 I'm constantly exploring new front-end technologies and learning the latest web development trends.<br>🚀 My goal is to become a proficient front-end developer and contribute to the ever-evolving web ecosystem.
